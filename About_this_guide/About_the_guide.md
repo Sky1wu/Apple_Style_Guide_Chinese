@@ -33,7 +33,7 @@ Apple 的某些部门（例如 Marcom）有补充的风格指南。
 
 * 当一个词条的形容词是谓语形容词，它之后的括号中为 **pred. adj.**。例如：
 
-    **user-friendly (adj.), user friendly (pred. adj.)**
+> **user-friendly (adj.), user friendly (pred. adj.)**
 
 * 如果一个连字复合词没有 **pred. adj.** 词条，则在句子中出现的任何地方都要用连字符。
 

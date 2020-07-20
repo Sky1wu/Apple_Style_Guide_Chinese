@@ -6,9 +6,9 @@
 
 **2K, 4K, 5K, 6K, 8K (adj.)** 屏幕水平分辨率或图片分辨率以千像素为单位。不要在数字和 *K* 之间加空格。
 
-    The 27-inch iMac has a Retina 5K display.
-
-    Apple ProRes codecs support all standard frame sizes (including SD, HD, 2K, and 4K).
+> The 27-inch iMac has a Retina 5K display.
+>
+> Apple ProRes codecs support all standard frame sizes (including SD, HD, 2K, and 4K).
 
 **3D** *three-dimensional* 的缩写。缩写中没有连字符。有关拼写缩写的准则，参见 [abbreviations and acronyms](https://help.apple.com/applestyleguide/#/apsg3acde405?sub=apde9a26a57d4df4)。
 
