@@ -19,4 +19,4 @@
     >
     > An internet address is sometimes called a URL, short for Uniform Resource Locator.
 
-    $^*$ 译者注：通常汉字不使用斜体。
+    （译者注：通常汉字不使用斜体。）

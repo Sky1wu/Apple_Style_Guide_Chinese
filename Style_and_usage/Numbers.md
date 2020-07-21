@@ -2,7 +2,7 @@
 
 **2-byte character** 不要这样使用；使用 *double-byte character*。
 
-**2D** *two-dimensional* 的缩写。缩写中没有连字符。有关拼写缩写的准则，参见 [abbreviations and acronyms](A.md)。
+**2D** *two-dimensional* 的缩写。缩写中没有连字符。有关拼写缩写的准则，参见 [abbreviations and acronyms（缩写与首字母缩略词）](/Style_and_usage/A.md)。
 
 **2K, 4K, 5K, 6K, 8K (adj.)** 屏幕水平分辨率或图片分辨率以千像素为单位。不要在数字和 *K* 之间加空格。
 
