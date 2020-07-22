@@ -39,4 +39,3 @@ Apple 的某些部门（例如 Marcom）有补充的风格指南。
 ## 如何请求修订
 
 如果你是 Apple 员工或已注册的 Apple 开发者，你可以通过 bugreport.apple.com 提交错误报告提交对 _Apple Style Guide_ 的补充或修订。除此之外，你可以通过电子邮件将反馈发送到 ASGFeedback@group.apple.com。（很遗憾我们无法对反馈作出回应。）
-

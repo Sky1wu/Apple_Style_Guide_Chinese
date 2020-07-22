@@ -56,4 +56,3 @@
 * 产品名称：请勿缩写任何 Apple 产品或服务名称，无论该产品或服务是否已注册商标或具有服务标记。
 
 **abort（中止）** 避免在用户材料中使用。另参见 [exit](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apda938253106134)；[interrupt](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd2175bc2ed8fa4)；[quit](https://help.apple.com/applestyleguide/#/apsg38496e66?sub=apd82adbb46586d4)；[stop](https://help.apple.com/applestyleguide/#/apsge70df12b?sub=apdca9bcb3915724)。
-
