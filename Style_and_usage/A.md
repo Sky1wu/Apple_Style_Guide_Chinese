@@ -20,4 +20,41 @@
     >
     > 互联网地址有时叫做 URL，是 *Uniform Resource Locator* 的缩写。
 
-    （译者注：通常汉字不使用斜体。）
+    「译者注：通常汉字不使用斜体。」
+
+* 文件类型：使用大写字母表示文件类型的缩写。
+    > JPEG 文件、AIFF 文件、MP3 文件
+
+    表示文件类型的文件扩展名应小写。
+
+    > .jpg、.aif、.mp3、.iba
+
+    另参见 [filename extensions](https://help.apple.com/applestyleguide/#/apsg1d47a4df?sub=apd72b81dda6)；[file types](https://help.apple.com/applestyleguide/#/apsg1d47a4df?sub=apda21bcd9c8eb64)。
+
+* 发音：如果你认为读者可能不知道缩略词的发音，请提供发音。
+  
+    > WYSIWYG （发音 “WIZ-zee-wig”）
+
+    另参见 [pronunciation](https://help.apple.com/applestyleguide/#/apsg4473eab0?sub=apd62d574a741894)。
+
+* 冠词：更具其发音，在缩写或缩略词前使用 *a* 或 *an*。
+
+    > a SAN, a USB port, an FAQ, an LCD screen
+
+* 标点：除非公制度量单位的缩写和缩写 *a.m.*、*p.m.*、*U.S.* 之外，不要使用句号（参见 [U.S.](https://help.apple.com/applestyleguide/#/apsg45c3b57e?sub=apd04272d359ae64) 的例外情况）。
+
+* 复数：当缩写为复数形式时，请不要在 *s* 前添加撇号。
+
+    > CDs, ICs, ISPs
+
+* 拉丁文：避免使用拉丁文缩写。
+
+    > 正确：*for example*, *and others*, *and so on*, *and that is*, 或其它等价短语
+    >
+    > 错误：*e.g.* (for example), *et al.* (and others), *etc.* (and so on), *i.e.* (that is)
+
+* 计量单位：有关详细的使用指南，请参阅 [Units of measure](https://help.apple.com/applestyleguide/#/apsg6ae856d6)。
+
+* 产品名称：请勿缩写任何 Apple 产品或服务名称，无论该产品或服务是否已注册商标或具有服务标记。
+
+**abort（中止）** 避免在用户材料中使用。另参见 [exit](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apda938253106134)；[interrupt](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd2175bc2ed8fa4)；[quit](https://help.apple.com/applestyleguide/#/apsg38496e66?sub=apd82adbb46586d4)；[stop](https://help.apple.com/applestyleguide/#/apsge70df12b?sub=apdca9bcb3915724)。
