@@ -4,7 +4,7 @@
 
 **abbreviations and acronyms（缩写与缩略词）** 缩略词是由一个复合词的首字母或主要部分的字母组成的一个可发音的词。缩写通常以同样的方式形成，但不作为单词发音。缩写通常是小写字母，或者小写字母与大写字母混合。而无论拼写形式的大写风格如何，缩略词几乎都是大写的。
 
-> 缩写（Abbreviation）：mph—英里每小时；MB/s—兆字节每秒
+> 缩写（Abbreviation）：mph—for *miles per hour* （英里每小时）；MB/s—for *megabytes per second* （兆字节每秒）
 >
 > 缩略词（Acronym）：ROM—只读存储器
 
