@@ -28,6 +28,6 @@ _three-dimensional_ 的缩写。缩写中没有连字符。有关拼写缩写的
 
 注意大写。另参见 [Ethernet](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apdaf261f649c374)；[Fast Ethernet \(100Base-T\)](https://help.apple.com/applestyleguide/#/apsg1d47a4df?sub=apd3b1f4ef3adf44)；[Gigabit Ethernet \(1000Base-T\)](https://help.apple.com/applestyleguide/#/apsg4104680a?sub=apdc8d1075fc1744)。
 
-## 24/7**
+## 24/7
 
 不是 _24x7_。要详细说明，请使用 _24 hours a day_，_7 days a week_；_a 24-hour-a-day_，_7-day-a-week support program_。
