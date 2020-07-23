@@ -1,8 +1,12 @@
 # A
 
-**AAC** _Advanced Audio Coding_ 的缩写，一种行业标准的音频压缩格式。有关拼写缩写的准则，参见 [abbreviations and acronyms（缩写与缩略词）](a.md)。
+## AAC
 
-**abbreviations and acronyms（缩写与缩略词）** 缩略词是由一个复合词的首字母或主要部分的字母组成的一个可发音的词。缩写通常以同样的方式形成，但不作为单词发音。缩写通常是小写字母，或者小写字母与大写字母混合。而无论拼写形式的大写风格如何，缩略词几乎都是大写的。
+_Advanced Audio Coding_ 的缩写，一种行业标准的音频压缩格式。有关拼写缩写的准则，参见 [abbreviations and acronyms（缩写与缩略词）](#abbreviations-and-acronyms缩写与缩略词)。
+
+## abbreviations and acronyms（缩写与缩略词）
+
+缩略词是由一个复合词的首字母或主要部分的字母组成的一个可发音的词。缩写通常以同样的方式形成，但不作为单词发音。缩写通常是小写字母，或者小写字母与大写字母混合。而无论拼写形式的大写风格如何，缩略词几乎都是大写的。
 
 > 缩写（Abbreviation）：mph—for *miles per hour* （英里每小时）；MB/s—for *megabytes per second* （兆字节每秒）
 >
@@ -55,4 +59,6 @@
 * 计量单位：有关详细的使用指南，请参阅 [Units of measure](https://help.apple.com/applestyleguide/#/apsg6ae856d6)。
 * 产品名称：请勿缩写任何 Apple 产品或服务名称，无论该产品或服务是否已注册商标或具有服务标记。
 
-**abort（中止）** 避免在用户材料中使用。另参见 [exit](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apda938253106134)；[interrupt](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd2175bc2ed8fa4)；[quit](https://help.apple.com/applestyleguide/#/apsg38496e66?sub=apd82adbb46586d4)；[stop](https://help.apple.com/applestyleguide/#/apsge70df12b?sub=apdca9bcb3915724)。
+## abort（中止）
+
+避免在用户材料中使用。另参见 [exit](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apda938253106134)；[interrupt](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd2175bc2ed8fa4)；[quit](https://help.apple.com/applestyleguide/#/apsg38496e66?sub=apd82adbb46586d4)；[stop](https://help.apple.com/applestyleguide/#/apsge70df12b?sub=apdca9bcb3915724)。
