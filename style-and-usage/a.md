@@ -12,7 +12,7 @@ _Advanced Audio Coding_ 的缩写，一种行业标准的音频压缩格式。�
 
 > 缩写（Abbreviation）：mph—for *miles per hour* （英里每小时）；MB/s—for *megabytes per second* （兆字节每秒）
 >
-> 缩略词（Acronym）：ROM—只读存储器
+> 缩略词（Acronym）：ROM—for *read-only memory*（只读存储器）
 
 * 什么时候详细说明：如果你认为你的读者可能不熟悉缩写或者缩略词，在它第一次在页面或一个部分中出现时解释它。在用户资料中，在介绍该术语时将其拼写清楚。
 * 如何详细说明：拼写术语时，通常将拼写的版本放在首位，并在括号中加上缩写或者缩略词。
@@ -66,3 +66,21 @@ _Advanced Audio Coding_ 的缩写，一种行业标准的音频压缩格式。�
 **中止**。
 
 避免在用户材料中使用。另参见 [exit](https://help.apple.com/applestyleguide/#/apsg076a7313?sub=apda938253106134)；[interrupt](https://help.apple.com/applestyleguide/#/apsg346ef241?sub=apd2175bc2ed8fa4)；[quit](https://help.apple.com/applestyleguide/#/apsg38496e66?sub=apd82adbb46586d4)；[stop](https://help.apple.com/applestyleguide/#/apsge70df12b?sub=apdca9bcb3915724)。
+
+## above, below
+
+**之前，之后**。
+
+您可以使用之前或之后来描述当前段落之前或之后的文本或对象。
+
+在上面的示例中，剪辑 B 缩短了，剪辑 C 延长了，但是它们的组合持续时间保持不变。【之前的图片】
+
+这些滑块反映了上述滑块的设置。【之前的文本】
+
+下图显示了典型的网络配置。【之后的图片】
+
+下面概述了创建多机位项目的过程。【之后的文本】
+
+除此之外，请使用交叉引用(请参考贵部门关于交叉引用风格的指南)。
+
+另参阅 [cross-references](https://help.apple.com/applestyleguide/#/apsgb744e4a3?sub=apd670eaf8ca4734)
