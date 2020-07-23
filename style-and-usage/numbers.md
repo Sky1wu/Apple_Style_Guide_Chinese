@@ -6,9 +6,9 @@
 
 ## 2D
 
-_two-dimensional_ 的缩写。缩写中没有连字符。有关拼写缩写的准则，参见 [abbreviations and acronyms（缩写与缩略词）](a.md#abbreviations-and-acronyms缩写与缩略词)。
+_two-dimensional_ 的缩写。缩写中没有连字符。有关拼写缩写的准则，参见 [abbreviations and acronyms（缩写与缩略词）](a.md#abbreviations-and-acronyms)。
 
-## 2K, 4K, 5K, 6K, 8K \(adj.\)**
+## 2K, 4K, 5K, 6K, 8K \(adj.\)
 
 屏幕水平分辨率或图片分辨率以千像素为单位。不要在数字和 _K_ 之间加空格。
 
@@ -18,7 +18,7 @@ _two-dimensional_ 的缩写。缩写中没有连字符。有关拼写缩写的�
 
 ## 3D
 
-_three-dimensional_ 的缩写。缩写中没有连字符。有关拼写缩写的准则，参见 [abbreviations and acronyms（缩写与缩略词）](a.md#abbreviations-and-acronyms缩写与缩略词)。
+_three-dimensional_ 的缩写。缩写中没有连字符。有关拼写缩写的准则，参见 [abbreviations and acronyms（缩写与缩略词）](a.md#abbreviations-and-acronyms)。
 
 ## 3D Touch
 
